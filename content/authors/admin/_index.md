@@ -43,16 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:encybiro@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/EnikoBiro
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/biroeniko
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,5 +68,7 @@ email: ""
 #- Researchers
 #- Visitors
 ---
+
+I am a Machine Learning Engineer at Bosch, where I am working on autonomous driving solutions using machine learning and computer vision.
 
 I am doing my last year of Masters at Babeș-Bolyai University in Machine Learning. My interests include computer graphics and machine learning. Currently, I am working on my dissertation.
