@@ -18,9 +18,90 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+# 10 -------------------------------------------------------------------------------------------------
 
-# 9
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "Honourable mention - Adolf Haimovici Applied Mathematics Competition – National Phase, Iași"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-04-13"
+  date_end = ""
+  description = ""
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "1st place - Nyárádi Erasmus Gyula National Biology Competition, Târgu-Mureș"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-05-10"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "2nd place - Chemistry Olympiad - County Phase, Sfântu Gheorghe"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-03-23"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Krúdy Gyula Kőzépiskola és Révai Miklós Gimnázium"
+  organization_url = ""
+  title = "Honourable mention - 22nd European Mathematical Olympiad for Hungarian-speaking high schools, Győr, Hungary"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-03-18"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "2nd place - Adolf Haimovici Applied Mathematics Competition – County Phase, Sfântu Gheorghe"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-03-09"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "1st place - Biology Olympiad - County Phase, Sfântu Gheorghe"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-03-02"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Honourable mention - 23rd Transylvanian Mathematics Competition – National Phase, Salonta"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-31"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Nagy Mózes Elméleti Líceum"
+  organization_url = ""
+  title = "2nd place - 39th Intercounty Mathematics Competition"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-11-10"
+  date_end = ""
+  description = ""
+
+# 9 --------------------------------------------------------------------------------------------------
 
 [[item]]
   organization = ""
@@ -102,7 +183,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-# 5-8
+# 5-8 ---------------------------------------------------------------------------------------------
 [[item]]
   organization = "Mikes Kelemen Elméleti Líceum"
   organization_url = ""
