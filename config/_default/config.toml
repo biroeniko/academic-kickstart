@@ -65,7 +65,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # Taxonomies.
 [taxonomies]
-  tag = ["computer", "engineer", "machine learning", "data science", "maths", "mathematics"]
-  category = "categories"
+  tag = ["computer", "engineer", "machine learning", "computer graphics", 
+  "data science", "Eniko Biro", "Biro Eniko", "maths", "mathematics"]
+  category = ["Personal website"]
   publication_type = "publication_types"
-  author = "authors"
+  author = "Eniko Biro"
