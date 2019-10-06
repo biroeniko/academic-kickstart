@@ -19,6 +19,90 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+# 9
+
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "3rd place - 38th Intercounty Mathematics Competition, Sighișoara"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-05-05"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "Honourable mention - Adolf Haimovici Applied Mathematics Competition – National Phase, Iași"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-04-21"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "1st place - Chemistry Olympiad - County Phase, Sfântu Gheorghe"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-03-11"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "3rd place - Adolf Haimovici Applied Mathematics Competition – County Phase, Sfântu Gheorghe"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-03-10"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Matematikában Tehetséges Gyermekekért Alapítvány"
+  organization_url = "http://www.mategye.hu/"
+  title = "1st place - Gordiusz Mathematics Competition - County Phase"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-03-06"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "1st place - Biology Olympiad - County Phase, Sfântu Gheorghe"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-03-03"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "Honourable mention - Physics Olympiad - County Phase, Sfântu Gheorghe"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-02-19"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Honourable mention - 37th Intercounty Mathematics Competition, Brașov"
+  url = ""
+  certificate_url = ""
+  date_start = "2011-11-19"
+  date_end = ""
+  description = ""
+
+# 5-8
 [[item]]
   organization = "Mikes Kelemen Elméleti Líceum"
   organization_url = ""
