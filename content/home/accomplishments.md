@@ -18,16 +18,87 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-#[[item]]
-#  organization = "Coursera"
-#  organization_url = "https://www.coursera.org"
-#  title = "Neural Networks and Deep Learning"
-#  url = ""
-#  certificate_url = "https://www.coursera.org"
-#  date_start = "2018-10-01"
-#  date_end = ""
-#  description = ""
-#
+
+[[item]]
+  organization = "Mikes Kelemen Elméleti Líceum"
+  organization_url = ""
+  title = "1st place - Gyulai Zoltán Intercounty Physics Competition"
+  url = ""
+  certificate_url = ""
+  date_start = "2011-04-30"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "3rd place - 35th Intercounty Mathematics Competition, Baraolt"
+  url = ""
+  certificate_url = ""
+  date_start = "2010-11-13"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "Honourable mention - “Science for Youth” Olympiad (Biology, Chemistry, Physics) – County Phase, Sfântu Gheorghe"
+  url = ""
+  certificate_url = ""
+  date_start = "2010-05-20"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Nagy Mózes Elméleti Líceum"
+  organization_url = ""
+  title = "1st place - Gyulai Zoltán Intercounty Physics Competition"
+  url = ""
+  certificate_url = ""
+  date_start = "2010-05-13"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "2nd place - Mathematics Olympiad - County Phase, Sfântu Gheorghe"
+  url = ""
+  certificate_url = ""
+  date_start = "2010-03-13"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "1st place - Biology Olympiad - County Phase, Sfântu Gheorghe"
+  url = ""
+  certificate_url = ""
+  date_start = "2010-03-06"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Matematikában Tehetséges Gyermekekért Alapítvány"
+  organization_url = "http://www.mategye.hu/"
+  title = "3rd place - Zrínyi Ilona Mathematics Competition - County Phase"
+  url = ""
+  certificate_url = ""
+  date_start = "2009-02-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "1st place - 31th Intercounty Mathematics Competition, Brașov"
+  url = ""
+  certificate_url = ""
+  date_start = "2008-11-08"
+  date_end = ""
+  description = ""
+
 #[[item]]
 #  organization = "edX"
 #  organization_url = "https://www.edx.org"
