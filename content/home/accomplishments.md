@@ -20,6 +20,108 @@ date_format = "Jan 2006"
 
 # 11 -------------------------------------------------------------------------------------------------
 
+
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "2nd place - Nyárádi Erasmus Gyula National Biology Competition, Târgu-Mureș"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-05-11"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Orbán Balázs Gimnázium"
+  organization_url = ""
+  title = "Honourable mention - 42nd Intercounty Mathematics Competition"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-04-09"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Babeș-Bolyai University"
+  organization_url = ""
+  title = "1st place - Candin Liteanu National Chemistry Competition, Cluj-Napoca"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-04-05"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Matematikában Tehetséges Gyermekekért Alapítvány"
+  organization_url = "http://www.mategye.hu/"
+  title = "3rd place - Zrínyi Ilona Mathematics Competition - County Phase"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-03-12"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "3rd place - Adolf Haimovici Applied Mathematics Competition – County Phase, Sfântu Gheorghe"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-03-08"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "1st place - Biology Olympiad - County Phase, Sfântu Gheorghe"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-03-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "Honourable mention - Chemistry Olympiad – County Phase, Sfântu Gheorghe"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-02-22"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "3rd place - 41st Intercounty Mathematics Competition"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-11-09"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Mákvirág Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-10-12"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "Certificate of Excellence from the Romanian Ministry of Education"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-01"
+  date_end = ""
+  description = ""
+
 # 10 -------------------------------------------------------------------------------------------------
 
 [[item]]
