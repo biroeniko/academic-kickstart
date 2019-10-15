@@ -18,8 +18,29 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-# 12 -------------------------------------------------------------------------------------------------
+# University -----------------------------------------------------------------------------------------
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "2nd place - 24th National Scientific Students’ Associations Conference (OTDK), Budapest, Hungary"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-04-18"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "3rd Transylvanian Scientific Students’ Associations Conference (ETDK), Cluj-Napoca"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-05-27"
+  date_end = ""
+  description = ""
+
+# 12 -------------------------------------------------------------------------------------------------
 
 [[item]]
   organization = "Nagy Mózes Elméleti Líceum Kézdivásárhely"
