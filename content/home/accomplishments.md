@@ -18,9 +18,73 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+# 12 -------------------------------------------------------------------------------------------------
+
+
+
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "Honourable mention - Adolf Haimovici Applied Mathematics Competition – National Phase, Iași"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-04-03"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Honourable mention - 24th European Mathematical Olympiad for Hungarian-speaking High Schools, Serbia"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-04-12"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Romanian Ministry of National Education"
+  organization_url = ""
+  title = "1st place - Adolf Haimovici Applied Mathematics Competition – County Phase, Sfântu Gheorghe"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-03-14"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Matematikában Tehetséges Gyermekekért Alapítvány"
+  organization_url = "http://www.mategye.hu/"
+  title = "3rd place - Gordiusz Mathematics Competition - County Phase"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-03-12"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Honourable mention -25th Transylvanian Mathematics Competition – National Phase, Bistrița"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-03-01"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "Áprily Lajos Főgimnázium"
+  organization_url = ""
+  title = "Honourable mention - 43rd Intercounty Mathematics Competition"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-11-22"
+  date_end = ""
+  description = ""
+
 # 11 -------------------------------------------------------------------------------------------------
-
-
 
 [[item]]
   organization = ""
@@ -103,7 +167,7 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = ""
+  organization = "Romániai Magyar Pedagógusok Szövetsége - The Association of the Hungarian Educators of Romania"
   organization_url = ""
   title = "Mákvirág Award"
   url = ""
