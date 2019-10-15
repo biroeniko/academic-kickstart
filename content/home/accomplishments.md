@@ -21,7 +21,15 @@ date_format = "Jan 2006"
 # 12 -------------------------------------------------------------------------------------------------
 
 
-
+[[item]]
+  organization = "Nagy Mózes Elméleti Líceum Kézdivásárhely"
+  organization_url = ""
+  title = "Nagy Mózes Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-05-29"
+  date_end = ""
+  description = "Is awarded as recognition of the valuable work performed to enrich the scientific life of the school, for the community service efforts, for the positive example given to the future generations and for the outstanding results obtained in the learning process."
 
 [[item]]
   organization = "Romanian Ministry of National Education"
