@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "3rd Transylvanian Scientific Students’ Associations Conference (ETDK), Cluj-Napoca"
+  title = "3rd place - 21th Transylvanian Scientific Students’ Associations Conference (ETDK), Cluj-Napoca"
   url = ""
   certificate_url = ""
   date_start = "2018-05-27"
